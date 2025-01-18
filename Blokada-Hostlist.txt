@@ -121,3 +121,9 @@ ads.pinterest.com
 ads.reddit.com
 ads.youtube.com
 ads.tiktok.com
+advertising.twitter.com
+metrics1.data.hicloud.com
+metrics5.data.hicloud.com
+metrics-dra.dt.hicloud.com
+business.samsungusa.com
+supportmetrics.apple.com
