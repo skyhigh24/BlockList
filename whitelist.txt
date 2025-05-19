@@ -228,3 +228,4 @@ ktpx-eu.amazon.com
 api.eu.amazonalexa.com
 ecx.images-amazon.com
 joyn.de
+www.virustotal.com
