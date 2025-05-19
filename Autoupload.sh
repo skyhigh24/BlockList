@@ -1,5 +1,4 @@
 #!/bin/bash
-cd /home/pi/BlockList
-git add -A
-git commit -am "Weekly Automatic Export"
-git push
+git -C /home/pi/BlockList add -A
+git -C /home/pi/BlockList commit -am "Weekly Automatic Export"
+git -C /home/pi/BlockList push
