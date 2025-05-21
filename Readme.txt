@@ -13,7 +13,7 @@ As im boycotting Meta, Bytedance and similar SocialMedia,these are Blocked as we
 !            if some things not working correctly i am not responsible!         !
 !                                                                               !
 ! These Lists are not intended to be used by anyone other than me and my Family !
-!           but you do you, i am just a Warning-Sign and not your Boss.         !
+!             but you do you, i am just a Warning-Sign, not your Boss.          !
 !                                                                               !
 \_______________________________________________________________________________/
                   !  !                                        !  !
