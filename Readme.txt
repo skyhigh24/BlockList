@@ -1,5 +1,4 @@
 This is an automatic Export of my PiHole Lists. 
-
 As im boycotting Meta, Bytedance and similar SocialMedia,these are Blocked as well to prevent Cross-Site tracking.
 
  _______________________________________________________________________________
@@ -11,10 +10,10 @@ As im boycotting Meta, Bytedance and similar SocialMedia,these are Blocked as we
 !        (_) /_/   \_\_|   |_| |_____|_| \_| |_| |___|___\___/|_| \_| (_)       !
 !                                                                               !
 !                              Use at your own Risk!                            !
-!                  if sometings not working i am not responsible!               !
+!            if some things not working correctly i am not responsible!         !
 !                                                                               !
 ! These Lists are not intended to be used by anyone other than me and my Family !
-!            but you do you, im just a Warning-Sign and not your Boss.          !
+!           but you do you, i am just a Warning-Sign and not your Boss.         !
 !                                                                               !
 \_______________________________________________________________________________/
                   !  !                                        !  !
