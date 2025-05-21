@@ -1,6 +1,5 @@
 0.client-channel.google.com
 1drv.com
-seducted.com
 2.android.pool.ntp.org
 akamaihd.net
 akamaitechnologies.com
